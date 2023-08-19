@@ -1,0 +1,2 @@
+# ExosPython-ICTU
+exercice python
