@@ -1,4 +1,4 @@
-# ExosPython-ICTU
+# ExosPython-ICTU: [Wiki](https://github.com/codeurzebs/ExosPython-ICTU/wiki/EXERSICES)
 
 
  * projet python du pdf ExPythonMultiplication.pdf
