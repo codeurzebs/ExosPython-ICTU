@@ -21,7 +21,7 @@
 exercice python
 
 ### Download Pdf : [ExPythonMultiplication.pdf](https://github.com/codeurzebs/ExosPython-ICTU/blob/main/packExos/ExPythonMultiplication.pdf)
-### Package : packExos
+### Package : [packExos](https://github.com/codeurzebs/ExosPython-ICTU/tree/main/packExos)
 
 | EXOS | SOLUTIONS |
 |--|--|
@@ -36,7 +36,7 @@ exercice python
 # Prérequis 📝
 Python (Pycharm) ou autre...
 # Contribuant
-* Git clone https://github.com/codeurzebs/ExosPython-ICTU.git
+* ``` Git clone https://github.com/codeurzebs/ExosPython-ICTU.git ```
 * Veuillez bifurquer ce référentiel et contribuer en utilisant: [PR (PULL REQUEST)](https://github.com/codeurzebs/ExosPython-ICTU/pulls) .
 
 Toutes les contributions, grandes ou petites, fonctionnalités majeures, corrections de bogues, sont les bienvenues et appréciées mais seront soigneusement examinées.
