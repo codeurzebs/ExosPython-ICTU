@@ -33,6 +33,14 @@ exercice python
 | Exo6 | [Exo6.py](https://github.com/codeurzebs/ExosPython-ICTU/blob/main/packExos/Exo6.py) |
 | Exo7 | [Exo7.py](https://github.com/codeurzebs/ExosPython-ICTU/blob/main/packExos/Exo7.py) |
 
+
+### Download Pdf : [ExPythonHourAM-PM.pdf](https://github.com/codeurzebs/ExosPython-ICTU/blob/main/packExos2/ExPythonHourAM-PM.pdf)
+### Package : [packExos2](https://github.com/codeurzebs/ExosPython-ICTU/tree/main/packExos2)
+
+| EXOS | SOLUTIONS |
+|--|--|
+| Exo1 | [Exo1.py](https://github.com/codeurzebs/ExosPython-ICTU/blob/main/packExos2/Exo1.py) |
+
 # Prérequis 📝
 Python (Pycharm) ou autre...
 # Contribuant
